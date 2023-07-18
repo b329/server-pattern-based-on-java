@@ -1,0 +1,45 @@
+net/chrisrichardson/ftgo/restaurantservice/lambda/AbstractAutowiringHttpRequestHandler.java
+ net.chrisrichardson.ftgo.restaurantservice.lambda.AbstractAutowiringHttpRequestHandler
+net/chrisrichardson/ftgo/restaurantservice/lambda/FindRestaurantRequestHandler.java
+ net.chrisrichardson.ftgo.restaurantservice.lambda.FindRestaurantRequestHandler
+net/chrisrichardson/ftgo/restaurantservice/domain/Restaurant.java
+ net.chrisrichardson.ftgo.restaurantservice.domain.Restaurant
+net/chrisrichardson/ftgo/restaurantservice/domain/RestaurantService.java
+ net.chrisrichardson.ftgo.restaurantservice.domain.RestaurantService
+net/chrisrichardson/ftgo/restaurantservice/aws/AwsLambdaError.java
+ net.chrisrichardson.ftgo.restaurantservice.aws.AwsLambdaError
+net/chrisrichardson/ftgo/restaurantservice/aws/Identity.java
+ net.chrisrichardson.ftgo.restaurantservice.aws.Identity
+net/chrisrichardson/ftgo/restaurantservice/domain/RestaurantMenu.java
+ net.chrisrichardson.ftgo.restaurantservice.domain.RestaurantMenu
+net/chrisrichardson/ftgo/restaurantservice/events/RestaurantCreated.java
+ net.chrisrichardson.ftgo.restaurantservice.events.RestaurantCreated
+net/chrisrichardson/ftgo/restaurantservice/aws/AbstractHttpHandler.java
+ net.chrisrichardson.ftgo.restaurantservice.aws.AbstractHttpHandler
+net/chrisrichardson/ftgo/restaurantservice/lambda/RestaurantServiceLambdaConfiguration.java
+ net.chrisrichardson.ftgo.restaurantservice.lambda.RestaurantServiceLambdaConfiguration
+net/chrisrichardson/ftgo/restaurantservice/lambda/CreateRestaurantRequestHandler.java
+ net.chrisrichardson.ftgo.restaurantservice.lambda.CreateRestaurantRequestHandler
+net/chrisrichardson/ftgo/restaurantservice/domain/RestaurantServiceDomainConfiguration.java
+ net.chrisrichardson.ftgo.restaurantservice.domain.RestaurantServiceDomainConfiguration
+net/chrisrichardson/ftgo/restaurantservice/web/CreateRestaurantResponse.java
+ net.chrisrichardson.ftgo.restaurantservice.web.CreateRestaurantResponse
+net/chrisrichardson/ftgo/restaurantservice/events/RestaurantDomainEvent.java
+ net.chrisrichardson.ftgo.restaurantservice.events.RestaurantDomainEvent
+net/chrisrichardson/ftgo/restaurantservice/events/RestaurantMenuRevised.java
+ net.chrisrichardson.ftgo.restaurantservice.events.RestaurantMenuRevised
+net/chrisrichardson/ftgo/restaurantservice/aws/ApiGatewayResponse.java
+ net.chrisrichardson.ftgo.restaurantservice.aws.ApiGatewayResponse
+ net.chrisrichardson.ftgo.restaurantservice.aws.ApiGatewayResponse$Builder
+net/chrisrichardson/ftgo/restaurantservice/aws/RequestContext.java
+ net.chrisrichardson.ftgo.restaurantservice.aws.RequestContext
+net/chrisrichardson/ftgo/restaurantservice/domain/RestaurantRepository.java
+ net.chrisrichardson.ftgo.restaurantservice.domain.RestaurantRepository
+net/chrisrichardson/ftgo/restaurantservice/lambda/GetRestaurantResponse.java
+ net.chrisrichardson.ftgo.restaurantservice.lambda.GetRestaurantResponse
+net/chrisrichardson/ftgo/restaurantservice/domain/CreateRestaurantRequest.java
+ net.chrisrichardson.ftgo.restaurantservice.domain.CreateRestaurantRequest
+net/chrisrichardson/ftgo/restaurantservice/aws/ApiGatewayRequest.java
+ net.chrisrichardson.ftgo.restaurantservice.aws.ApiGatewayRequest
+net/chrisrichardson/ftgo/restaurantservice/domain/MenuItem.java
+ net.chrisrichardson.ftgo.restaurantservice.domain.MenuItem

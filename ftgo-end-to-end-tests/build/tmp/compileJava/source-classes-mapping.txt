@@ -1,0 +1,22 @@
+net/chrisrichardson/ftgo/apis/model/restaurantservice/CreateRestaurantResponse.java
+ net.chrisrichardson.ftgo.apis.model.restaurantservice.CreateRestaurantResponse
+net/chrisrichardson/ftgo/apis/model/consumerservice/CreateConsumerRequest.java
+ net.chrisrichardson.ftgo.apis.model.consumerservice.CreateConsumerRequest
+net/chrisrichardson/ftgo/apis/model/restaurantservice/Address.java
+ net.chrisrichardson.ftgo.apis.model.restaurantservice.Address
+net/chrisrichardson/ftgo/apis/model/restaurantservice/RestaurantMenu.java
+ net.chrisrichardson.ftgo.apis.model.restaurantservice.RestaurantMenu
+net/chrisrichardson/ftgo/apis/model/consumerservice/GetConsumerResponse.java
+ net.chrisrichardson.ftgo.apis.model.consumerservice.GetConsumerResponse
+net/chrisrichardson/ftgo/apis/model/restaurantservice/Money.java
+ net.chrisrichardson.ftgo.apis.model.restaurantservice.Money
+net/chrisrichardson/ftgo/apis/model/consumerservice/PersonName.java
+ net.chrisrichardson.ftgo.apis.model.consumerservice.PersonName
+net/chrisrichardson/ftgo/apis/model/restaurantservice/MenuItem.java
+ net.chrisrichardson.ftgo.apis.model.restaurantservice.MenuItem
+net/chrisrichardson/ftgo/apis/model/restaurantservice/CreateRestaurantRequest.java
+ net.chrisrichardson.ftgo.apis.model.restaurantservice.CreateRestaurantRequest
+net/chrisrichardson/ftgo/apis/model/restaurantservice/GetRestaurantResponse.java
+ net.chrisrichardson.ftgo.apis.model.restaurantservice.GetRestaurantResponse
+net/chrisrichardson/ftgo/apis/model/consumerservice/CreateConsumerResponse.java
+ net.chrisrichardson.ftgo.apis.model.consumerservice.CreateConsumerResponse

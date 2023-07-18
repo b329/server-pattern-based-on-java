@@ -1,0 +1,12 @@
+net/chrisrichardson/ftgo/deliveryservice/api/web/CourierAvailability.java
+ net.chrisrichardson.ftgo.deliveryservice.api.web.CourierAvailability
+net/chrisrichardson/ftgo/deliveryservice/api/web/DeliveryInfo.java
+ net.chrisrichardson.ftgo.deliveryservice.api.web.DeliveryInfo
+net/chrisrichardson/ftgo/deliveryservice/api/web/ActionInfo.java
+ net.chrisrichardson.ftgo.deliveryservice.api.web.ActionInfo
+net/chrisrichardson/ftgo/deliveryservice/api/web/DeliveryState.java
+ net.chrisrichardson.ftgo.deliveryservice.api.web.DeliveryState
+net/chrisrichardson/ftgo/deliveryservice/api/web/DeliveryActionType.java
+ net.chrisrichardson.ftgo.deliveryservice.api.web.DeliveryActionType
+net/chrisrichardson/ftgo/deliveryservice/api/web/DeliveryStatus.java
+ net.chrisrichardson.ftgo.deliveryservice.api.web.DeliveryStatus

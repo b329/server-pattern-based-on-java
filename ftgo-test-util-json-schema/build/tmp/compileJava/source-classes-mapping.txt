@@ -1,0 +1,3 @@
+net/chrisrichardson/ftgo/testutil/jsonschema/ValidatingJSONMapper.java
+ net.chrisrichardson.ftgo.testutil.jsonschema.ValidatingJSONMapper
+ net.chrisrichardson.ftgo.testutil.jsonschema.ValidatingJSONMapper$1

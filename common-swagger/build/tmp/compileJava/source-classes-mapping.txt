@@ -1,0 +1,2 @@
+net/chrisrichardson/eventstore/examples/customersandorders/commonswagger/CommonSwaggerConfiguration.java
+ net.chrisrichardson.eventstore.examples.customersandorders.commonswagger.CommonSwaggerConfiguration

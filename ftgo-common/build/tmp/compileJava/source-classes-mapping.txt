@@ -1,0 +1,20 @@
+net/chrisrichardson/ftgo/common/CommonJsonMapperInitializer.java
+ net.chrisrichardson.ftgo.common.CommonJsonMapperInitializer
+net/chrisrichardson/ftgo/common/UnsupportedStateTransitionException.java
+ net.chrisrichardson.ftgo.common.UnsupportedStateTransitionException
+net/chrisrichardson/ftgo/common/CommonConfiguration.java
+ net.chrisrichardson.ftgo.common.CommonConfiguration
+net/chrisrichardson/ftgo/common/Money.java
+ net.chrisrichardson.ftgo.common.Money
+net/chrisrichardson/ftgo/common/MoneyModule.java
+ net.chrisrichardson.ftgo.common.MoneyModule
+ net.chrisrichardson.ftgo.common.MoneyModule$MoneyDeserializer
+ net.chrisrichardson.ftgo.common.MoneyModule$MoneySerializer
+net/chrisrichardson/ftgo/common/NotYetImplementedException.java
+ net.chrisrichardson.ftgo.common.NotYetImplementedException
+net/chrisrichardson/ftgo/common/RevisedOrderLineItem.java
+ net.chrisrichardson.ftgo.common.RevisedOrderLineItem
+net/chrisrichardson/ftgo/common/Address.java
+ net.chrisrichardson.ftgo.common.Address
+net/chrisrichardson/ftgo/common/PersonName.java
+ net.chrisrichardson.ftgo.common.PersonName

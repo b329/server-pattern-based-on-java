@@ -1,0 +1,2 @@
+net/chrisrichardson/ftgo/consumerservice/api/ConsumerServiceChannels.java
+ net.chrisrichardson.ftgo.consumerservice.api.ConsumerServiceChannels
