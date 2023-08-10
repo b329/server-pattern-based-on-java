@@ -1,5 +1,5 @@
 {
-  "id" : "3a4fb57a-463b-4e46-a56f-bd3efd2b0bbe",
+  "id" : "84fd5402-45ee-4cf4-aeec-2ee9cb031667",
   "request" : {
     "url" : "/orders/555",
     "method" : "GET"
@@ -8,5 +8,5 @@
     "status" : 404,
     "transformers" : [ "response-template" ]
   },
-  "uuid" : "3a4fb57a-463b-4e46-a56f-bd3efd2b0bbe"
+  "uuid" : "84fd5402-45ee-4cf4-aeec-2ee9cb031667"
 }

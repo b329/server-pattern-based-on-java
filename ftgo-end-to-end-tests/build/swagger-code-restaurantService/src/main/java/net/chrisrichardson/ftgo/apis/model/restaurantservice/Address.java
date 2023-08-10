@@ -24,7 +24,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * Address
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2023-07-18T11:03:18.974+09:00[Asia/Seoul]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2023-08-10T16:37:11.001+09:00[Asia/Seoul]")
 public class Address {
   @JsonProperty("city")
   private String city;
