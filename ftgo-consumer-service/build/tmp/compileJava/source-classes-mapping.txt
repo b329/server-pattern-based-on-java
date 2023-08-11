@@ -6,8 +6,8 @@ net/chrisrichardson/ftgo/consumerservice/domain/ConsumerNotFoundException.java
  net.chrisrichardson.ftgo.consumerservice.domain.ConsumerNotFoundException
 net/chrisrichardson/ftgo/consumerservice/main/ConsumerServiceMain.java
  net.chrisrichardson.ftgo.consumerservice.main.ConsumerServiceMain
-net/chrisrichardson/ftgo/consumerservice/domain/ConsumerService.java
- net.chrisrichardson.ftgo.consumerservice.domain.ConsumerService
+net/chrisrichardson/ftgo/consumerservice/web/GetConsumerResponse.java
+ net.chrisrichardson.ftgo.consumerservice.web.GetConsumerResponse
 net/chrisrichardson/ftgo/consumerservice/web/ConsumerWebConfiguration.java
  net.chrisrichardson.ftgo.consumerservice.web.ConsumerWebConfiguration
 net/chrisrichardson/ftgo/consumerservice/domain/ConsumerServiceCommandHandlers.java
@@ -16,15 +16,15 @@ net/chrisrichardson/ftgo/consumerservice/domain/ConsumerServiceConfiguration.jav
  net.chrisrichardson.ftgo.consumerservice.domain.ConsumerServiceConfiguration
 net/chrisrichardson/ftgo/consumerservice/web/CreateConsumerRequest.java
  net.chrisrichardson.ftgo.consumerservice.web.CreateConsumerRequest
-net/chrisrichardson/ftgo/consumerservice/domain/Consumer.java
- net.chrisrichardson.ftgo.consumerservice.domain.Consumer
+net/chrisrichardson/ftgo/consumerservice/domain/ConsumerVerificationFailedException.java
+ net.chrisrichardson.ftgo.consumerservice.domain.ConsumerVerificationFailedException
 net/chrisrichardson/ftgo/consumerservice/web/CreateConsumerResponse.java
  net.chrisrichardson.ftgo.consumerservice.web.CreateConsumerResponse
 net/chrisrichardson/ftgo/consumerservice/domain/ConsumerCreated.java
  net.chrisrichardson.ftgo.consumerservice.domain.ConsumerCreated
+net/chrisrichardson/ftgo/consumerservice/domain/Consumer.java
+ net.chrisrichardson.ftgo.consumerservice.domain.Consumer
+net/chrisrichardson/ftgo/consumerservice/domain/ConsumerService.java
+ net.chrisrichardson.ftgo.consumerservice.domain.ConsumerService
 net/chrisrichardson/ftgo/consumerservice/web/ConsumerController.java
  net.chrisrichardson.ftgo.consumerservice.web.ConsumerController
-net/chrisrichardson/ftgo/consumerservice/web/GetConsumerResponse.java
- net.chrisrichardson.ftgo.consumerservice.web.GetConsumerResponse
-net/chrisrichardson/ftgo/consumerservice/domain/ConsumerVerificationFailedException.java
- net.chrisrichardson.ftgo.consumerservice.domain.ConsumerVerificationFailedException
