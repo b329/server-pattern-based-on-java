@@ -2,7 +2,7 @@
 build/
 */build/
 *.build
-build
+/build
 buildSrc/
 *.idea/
 *.iml
